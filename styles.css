@@ -34,15 +34,14 @@ header{
     font-weight: bolder;
     text-transform: uppercase;
 }
-
-#srcInfo p{
+ p{
     margin-left: 200px;
     padding-top: 20px;
     font-weight: bold;
     font-size: 20px;
 }
 
-.form-group input{
+#search{
     width:650px;
     padding:10px;
 }
@@ -54,7 +53,7 @@ form{
     
 }
 
-.btn{
+#btn{
     background-color: red;
     color: #ffffff;
     border-radius: 5px;
